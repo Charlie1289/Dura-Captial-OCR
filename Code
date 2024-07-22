@@ -1,0 +1,7 @@
+echo "# Dura-Captial-OCR" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Charlie1289/Dura-Captial-OCR.git
+git push -u origin main
